@@ -5,5 +5,3 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 create a new branch is dev
 Creating a new branch is quick & simple.
-123456
-qqq
